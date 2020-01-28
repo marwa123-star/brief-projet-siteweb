@@ -1,0 +1,269 @@
+figure {
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+
+figcaption {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.75);
+  color: white;
+  padding: 10px 20px;
+  img-size: cover;
+}
+
+.img-back {
+  display: flex;
+  width: 100%;
+}
+
+.logo-back {
+  width: 60px
+}
+
+.flex-container {
+  background-color: blanchedalmond;
+}
+
+.gride1 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 48px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.bouton {
+  color: aliceblue;
+  margin-top: 10%;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
+  background-color: rgba(56, 52, 52, 0.5)
+}
+
+.ligne2 {
+  width: 260px;
+  margin-left: 20px;
+  border-bottom: 2px solid black;
+}
+
+
+.ligne {
+  width: 200px;
+  border-bottom: 2px solid;
+}
+
+.texte2 {
+  margin-left: 20px;
+}
+
+.img2 {
+  float: right;
+
+  width: 500px;
+
+  margin-right: 20px;
+}
+
+.bouton2 {
+  color: aliceblue;
+  margin-left: 20px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  background-color: rgba(56, 52, 52, 0.3)
+}
+
+.title {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.ligne4 {
+  width: 300px;
+  border-bottom: 2px solid;
+}
+
+
+
+.noreal {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+
+}
+
+.photo1 {
+  width: 250px;
+  height: 300PX;
+}
+
+.mot {
+  /* margin-top: 750px; */
+  text-align: center;
+}
+
+.ligne5 {
+  width: 150px;
+  border-bottom: 2px solid;
+}
+
+.gride2 {
+
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 48px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.picture {
+  margin-left: 35px;
+  height: 400px;
+
+
+}
+
+.texte {
+  text-align: center;
+}
+
+.line5 {
+  width: 150px;
+  border-bottom: 2px solid;
+}
+
+.picture2 {
+  margin-left: 590px;
+  margin-top: -600px;
+}
+
+.text2 {
+  text-align: center;
+}
+
+.nice {
+  width: 150px;
+  border-bottom: 2px solid
+}
+
+.Pricing {
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 60px;
+}
+
+.chadow {
+
+  border-radius: 20PX;
+  box-shadow: 4PX 9PX 20PX, 3px 9px 7px;
+  width: 20%;
+  text-align: center;
+  background-color: rgb(229, 246, 253);
+
+
+}
+
+.chadow li {
+  list-style: none;
+
+}
+
+.chadow ul {
+
+  margin-top: 60px;
+}
+
+
+.get h2 {
+  text-align: center;
+}
+
+.get h1 {
+  margin-top: 15%;
+
+}
+
+
+#sub {
+
+  margin-left: 10px;
+  margin-top: 50px;
+  padding-left: 10%;
+  padding-right: 10%;
+  background-color: white;
+}
+
+.futr4 {
+  line-height: 30px;
+
+}
+
+.futr {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 4%;
+  background-image: url('img');
+  box-sizing: border-box;
+
+}
+
+.futr4 li {
+  list-style: none;
+
+
+}
+
+.futr4 h2 {
+  color: skyblue
+}
+
+input[type=text],
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+.contact input {
+
+  width: 30%;
+  height: 40px;
+  padding: 20px;
+}
+
+.botton {
+  background-color: rgba(207, 199, 199, 0);
+  border: 1px solid black;
+  width: 130px;
+  height: 40px;
+  border-radius: 10px;
+}
+
+.botton:hover {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 5px black;
+
+}
+
+.texto {
+  height: 250px;
+}
+
+.title {
+  margin-top: 50px;
+}
+
+.line-title {
+  width: 150px;
+  border-bottom: 2px solid;
+}

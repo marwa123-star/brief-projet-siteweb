@@ -1,0 +1,37 @@
+.logo-img {
+    width: 80px;
+}
+.carousel-item{
+    height: 500px;
+}
+.carousel-caption {
+    
+    text-align: center;
+    max-width: 500px;
+    padding:5px;
+    right: 30%;
+    left: 30%;
+    top: 50%;
+    bottom: 30%;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.555);
+    border-radius: 1em;
+ } 
+ .text1{
+     text-align: center;
+ }
+ .lign{
+     width: 100px;
+     color: black;
+     font-size: x-large;
+     }
+     .flex-container{
+         font-size: x-large;
+     } 
+
+
+
+
+
+
+
